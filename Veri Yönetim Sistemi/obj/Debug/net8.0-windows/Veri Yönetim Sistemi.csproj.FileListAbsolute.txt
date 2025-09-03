@@ -1,0 +1,24 @@
+C:\Users\asus\source\repos\Veri Yönetim Sistemi\obj\Debug\net8.0-windows\Veri Yönetim Sistemi.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\Veri Yönetim Sistemi\obj\Debug\net8.0-windows\Veri Yönetim Sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\Veri Yönetim Sistemi\obj\Debug\net8.0-windows\Veri Yönetim Sistemi.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Veri Yönetim Sistemi\obj\Debug\net8.0-windows\Veri Yönetim Sistemi.AssemblyInfo.cs
+C:\Users\asus\source\repos\Veri Yönetim Sistemi\obj\Debug\net8.0-windows\Veri Yönetim Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Veri Yönetim Sistemi\obj\Debug\net8.0-windows\Veri Yönetim Sistemi.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Veri Yönetim Sistemi\obj\Debug\net8.0-windows\Veri_Yönetim_Sistemi.VeriYonetimSistemi.resources
+C:\Users\asus\source\repos\Veri Yönetim Sistemi\bin\Debug\net8.0-windows\Veri Yönetim Sistemi.exe
+C:\Users\asus\source\repos\Veri Yönetim Sistemi\bin\Debug\net8.0-windows\Veri Yönetim Sistemi.deps.json
+C:\Users\asus\source\repos\Veri Yönetim Sistemi\bin\Debug\net8.0-windows\Veri Yönetim Sistemi.runtimeconfig.json
+C:\Users\asus\source\repos\Veri Yönetim Sistemi\bin\Debug\net8.0-windows\Veri Yönetim Sistemi.dll
+C:\Users\asus\source\repos\Veri Yönetim Sistemi\bin\Debug\net8.0-windows\Veri Yönetim Sistemi.pdb
+C:\Users\asus\source\repos\Veri Yönetim Sistemi\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\asus\source\repos\Veri Yönetim Sistemi\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\asus\source\repos\Veri Yönetim Sistemi\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\asus\source\repos\Veri Yönetim Sistemi\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\asus\source\repos\Veri Yönetim Sistemi\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\asus\source\repos\Veri Yönetim Sistemi\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\asus\source\repos\Veri Yönetim Sistemi\obj\Debug\net8.0-windows\Veri Y_n.70D43CA8.Up2Date
+C:\Users\asus\source\repos\Veri Yönetim Sistemi\obj\Debug\net8.0-windows\Veri Yönetim Sistemi.dll
+C:\Users\asus\source\repos\Veri Yönetim Sistemi\obj\Debug\net8.0-windows\refint\Veri Yönetim Sistemi.dll
+C:\Users\asus\source\repos\Veri Yönetim Sistemi\obj\Debug\net8.0-windows\Veri Yönetim Sistemi.pdb
+C:\Users\asus\source\repos\Veri Yönetim Sistemi\obj\Debug\net8.0-windows\Veri Yönetim Sistemi.genruntimeconfig.cache
+C:\Users\asus\source\repos\Veri Yönetim Sistemi\obj\Debug\net8.0-windows\ref\Veri Yönetim Sistemi.dll
